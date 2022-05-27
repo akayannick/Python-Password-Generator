@@ -197,6 +197,6 @@ Hurray! we have a complete strong password generator. 😎
 
 # Happy Coding! 👩‍💻
 
-## If you would like to join our team, Please contact us at [Discord](https://discord.gg/YpEuQYUJ7z)
+### If you would like to join our team, Please contact us at [Discord](https://discord.gg/YpEuQYUJ7z)
 
 ~ aka._.yannick/Developer
